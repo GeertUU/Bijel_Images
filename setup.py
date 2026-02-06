@@ -22,7 +22,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'BijelAnalysisUU',
-    version = '0.0.1',
+    version = '0.0.2',
 
     url='https://github.com/GeertUU/Bijel_Images',
     author='Geert',
@@ -35,7 +35,7 @@ setup(
         'matplotlib',
         'opencv-python',
 		'PyQt5',
-		'PIL',
+		'Pillow',
         'scikit-image',
         'readlif',
     ],
