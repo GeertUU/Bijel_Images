@@ -16,11 +16,11 @@
 '''
 
 
-__version__ = '0.0.3'
+__version__ = '0.0.4'
 
-from bijelanalysis.TIF_Viewer import ImageViewer
-from bijelanalysis.surface.bijels_area_gui import BijelsAreaApp
-from bijelanalysis.edge.bijel_edges_gui import BijelsEdgesApp
+from BijelAnalysisUU.TIF_Viewer import ImageViewer
+from BijelAnalysisUU.surface.bijels_area_gui import BijelsAreaApp
+from BijelAnalysisUU.edge.bijel_edges_gui import BijelsEdgesApp
 
 #make visible for 'from imageAnalysis import *'
 __all__ = [
