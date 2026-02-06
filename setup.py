@@ -22,7 +22,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'BijelAnalysisUU',
-    version = '0.0.2',
+    version = '0.0.3',
 
     url='https://github.com/GeertUU/Bijel_Images',
     author='Geert',
