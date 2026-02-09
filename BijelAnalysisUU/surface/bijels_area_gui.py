@@ -6,7 +6,7 @@ import numpy as np
 import cv2
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-from bijels_area_estimation import (
+from surface.bijels_area_estimation import (
     ProcessingParams,
     load_image,
     process_image,
