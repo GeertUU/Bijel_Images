@@ -20,7 +20,7 @@ __version__ = '0.0.5'
 
 from BijelAnalysisUU.TIF_Viewer import ImageViewer
 from BijelAnalysisUU.surface.bijels_area_gui import BijelsAreaApp
-from BijelAnalysisUU.edge.bijel_edges_gui import BijelsEdgesApp
+from BijelAnalysisUU.edge.bijels_edges_gui import BijelsEdgesApp
 
 #make visible for 'from imageAnalysis import *'
 __all__ = [
