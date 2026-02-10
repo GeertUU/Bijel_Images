@@ -6,7 +6,7 @@ import numpy as np
 import cv2
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-from edge.bijels_edges_estimation import (
+from BijelAnalysisUU.edge.bijels_edges_estimation import (
     ProcessingParams,
     EDGE_ALGOS,
     load_image,
